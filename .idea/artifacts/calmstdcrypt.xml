@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="calmstdcrypt">
+    <output-path>$PROJECT_DIR$/out/artifacts/calmstdcrypt</output-path>
+    <root id="archive" name="calmstdcrypt.jar">
+      <element id="module-output" name="calmstdcrypt" />
+    </root>
+  </artifact>
+</component>
